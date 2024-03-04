@@ -1,0 +1,37 @@
+Trainings
+
+Full stack AWS solution architect associate
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_013098486603939840210/overview 
+
+kubernetes basics
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_013070458767417344523/overview    completed
+
+introduction to python
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_012664745277808640481/overview    completed 
+
+certifications
+
+Infosys Certified kubernetes Administrator
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_013102946513051648881/overview
+
+infosys certified python associate(objective)
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_0128057548137922562821/overview     completed
+
+infosys certified docker and kubernetes(objective)
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_013034433542283264467/overview
+
+
+Infosys Certified Associate in IaC using Ansible
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_0133754663769784321245/overview
+
+
+Infosys Certified Associate in Ansible Automation
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_0131298255435120642384/overview
+
+Infosys Certified Python Programmer
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_012602558725693440479/overview
+
+
+Infosys Certified DevOps Professional certification
+https://lex.infosysapps.com/web/en/app/toc/lex_auth_012601374477000704352/overview
+
