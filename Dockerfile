@@ -1,3 +1,3 @@
 from ubuntu
-run echo "it was second dockerfile" >/tmp/file-d
+run echo "docker" >/tmp/filee
 
